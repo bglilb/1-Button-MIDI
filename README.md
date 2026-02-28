@@ -1,0 +1,1 @@
+This is the code and schematic I used to create a simple, single button MIDI controller based around the ATTiny85. This had integrated USB support as well as 3D STL files to create a keychain out of this design. 
